@@ -1,11 +1,30 @@
-
 #include <iostream>
 #include <math.h>
 
 using namespace std;
 
+
+void GetValidNum();
+//cout << 題目敘述
+//cout << 輸入x0
+//cin x0
+//做一個函數跟loop檢查輸入的值是否為有效值
+
+
 //方程式x^3=sinx 
-//方法一:fixec-point iteration
+//方法一:fixec-point iteration  xn+1=f(xn)   n=0,1,2,3…..
+//xn趨近於一值x
+
 //方法二:newton's method
 //方法三:secant's method
-//方法四: 
+//方法四: Bisection method
+
+
+//class fixed-point iteration
+
+//class newton’s method
+
+//class secant’s method
+
+//class Bisection method
+
